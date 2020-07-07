@@ -1,5 +1,5 @@
 # gNMI Map
-[![map](https://gitlab.com/rdodin/pics/-/wikis/uploads/6a9d18f9cb2240656aad5d224aa757df/rsz_image.png)](https://gitlab.com/rdodin/pics/-/wikis/uploads/6cf03cf18ae6a9e69fc1360d6c8a0796/gnmi_0.7.0_map.pdf)
+[![map](https://gitlab.com/rdodin/pics/-/wikis/uploads/6a9d18f9cb2240656aad5d224aa757df/rsz_image.png)](https://gitlab.com/rdodin/pics/-/wikis/uploads/d275425d2b66601be213c6722dadd4d6/gnmi_0.7.0_map.pdf)
 
 gNMI Map provides a visual representation of the [gNMI](https://github.com/openconfig/reference/blob/master/rpc/gnmi/gnmi-specification.md) service.
 
@@ -12,7 +12,7 @@ gNMI Map makes it easy to understand the composition of the gNMI service as well
 ## Usage
 The map can be downloaded from this repository or viewed right in a browser. The maps for the following gNMI service versions have been created so far:
 
-* **gNMI 0.7.0** - [view](https://gitlab.com/rdodin/pics/-/wikis/uploads/6cf03cf18ae6a9e69fc1360d6c8a0796/gnmi_0.7.0_map.pdf) / [download](https://github.com/hellt/gnmi-map/raw/master/gnmi_0.7.0_map.pdf)
+* **gNMI 0.7.0** - [view](https://gitlab.com/rdodin/pics/-/wikis/uploads/d275425d2b66601be213c6722dadd4d6/gnmi_0.7.0_map.pdf) / [download](https://github.com/hellt/gnmi-map/raw/master/gnmi_0.7.0_map.pdf)
 
 ## OS X Preview app issue
 Mac OS X default PDF reader app - Preview - messes with the link fragments (`http://url.com/page#fragment`), therefore the links won't work in this app (see [1](https://discussions.apple.com/thread/251041261), [2](https://discussions.apple.com/thread/250919338)).
